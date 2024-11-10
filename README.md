@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **gokul98raj/gokul98raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
