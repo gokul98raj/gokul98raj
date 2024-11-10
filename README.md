@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 - 🔭 I’m currently working on **Something cool**
 
